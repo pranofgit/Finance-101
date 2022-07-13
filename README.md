@@ -13,8 +13,8 @@ Contents-
 
 To be added soon...
 
-6. Pricing European option (formula, tree, MC)
-7. Pricing American option (tree, MC)
-8. Bankruptcy Classification
+7. Pricing European option (formula, tree, MC)
+8. Pricing American option (tree, MC)
+9. Bankruptcy Classification
 
 
