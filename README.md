@@ -10,10 +10,11 @@ Contents-
 4. GARCH 
 5. Portfolio theory
 6. Feature selection
+7. Pricing European option (formula, tree, MC)
 
 To be added soon...
 
-7. Pricing European option (formula, tree, MC)
+
 8. Pricing American option (tree, MC)
 9. Bankruptcy Classification
 
