@@ -1,7 +1,7 @@
 # Finance-101
 A collection of Jupyter notebooks of some introductory level Fin tasks.
 
-Objective: To serve as personal reference. Nothing more.
+Objective: To serve as personal reference and, a motivation to code something with more later readablity, more frequently. Nothing more.
 
 Contents-
 1. CAPM
