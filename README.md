@@ -14,8 +14,8 @@ Contents-
 
 To be added soon...
 
-
-8. Pricing American option (tree, MC)
+8. Linear regression Diagnostics and solutions
+9. Pricing American option (tree, MC)
 
 
 
